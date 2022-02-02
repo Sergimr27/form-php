@@ -10,8 +10,7 @@
     <h1>Mostrar datos del formulario</h1>
     <?php
     /* código php */
-    echo '<p>'.$_REQUEST['nombre'].'</p>';
-    echo $_REQUEST['pwd'];
+    
     ?>
 </body>
 </html>
